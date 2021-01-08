@@ -1,7 +1,7 @@
 {
-    "name": "udevrandom/laravel-keycloak-web-guard",
+    "name": "darkstar42/laravel-keycloak-web-guard",
     "description": "Simple Keycloak Guard to Laravel Web Routes",
-    "homepage": "https://github.com/udevrandom/laravel-keycloak-web-guard",
+    "homepage": "https://github.com/darkstar42/laravel-keycloak-web-guard",
     "license": "MIT",
     "keywords": [
         "laravel",
